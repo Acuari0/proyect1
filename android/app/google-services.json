@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519620622736",
+    "firebase_url": "https://biomagna-pro.firebaseio.com",
+    "project_id": "biomagna-pro",
+    "storage_bucket": "biomagna-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519620622736:android:58716b864a2967c5dc1b15",
+        "android_client_info": {
+          "package_name": "com.fivestar.biomagnapro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519620622736-iiinq9gm643vk2e3uqghigpmr7965v4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8rLqV2Np3QmFHzdCHn9ogIZRMPn-_Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519620622736-iiinq9gm643vk2e3uqghigpmr7965v4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
